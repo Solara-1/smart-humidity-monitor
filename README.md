@@ -4,6 +4,10 @@ A smart humidity monitoring prototype using Arduino Uno R3 and DHT22 sensor with
 ## Overview
 This project is a smart humidity monitoring and control prototype built using an Arduino Uno R3 and a DHT22 sensor. It is designed to monitor humidity levels and support automated responses when humidity crosses defined thresholds.
 
+## Demo Video
+Watch the Smart Humidity Monitoring System in action:
+https://youtu.be/TFYsrCMUkPI
+
 ## Hardware Used
 - Arduino Uno R3
 - DHT22 humidity and temperature sensor
