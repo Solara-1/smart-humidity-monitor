@@ -21,4 +21,4 @@ This project is a smart humidity monitoring and control prototype built using an
 - Sensor integration
 
 ## Project Files
-- `smart-humidity-monitor.ino` — main Arduino control code
+- `ArduinoCodeForSHS.ino` — main Arduino control code
