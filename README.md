@@ -16,7 +16,6 @@ This project is a smart humidity monitoring and control prototype built using an
 
 ## Technologies
 - Arduino C++
-- Python
 - Embedded systems
 - Sensor integration
 
